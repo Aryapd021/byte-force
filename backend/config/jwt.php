@@ -1,4 +1,3 @@
-
 <?php
 // Byte Force JWT Helper - HMAC-SHA256 Token Issuer & Validator
 
