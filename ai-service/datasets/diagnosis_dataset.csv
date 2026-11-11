@@ -1,0 +1,181 @@
+text,category,problem_type,urgency,troubleshooting_tip
+My AC is running but blowing warm air and not cooling,air-conditioner,Low Refrigerant / Gas Leak,HIGH,Check if indoor filter is clean and ensure outdoor condenser unit fan is rotating freely.
+Urgent: my ac is running but blowing warm air and not cooling,air-conditioner,Low Refrigerant / Gas Leak,HIGH,Check if indoor filter is clean and ensure outdoor condenser unit fan is rotating freely.
+"Help, my ac is running but blowing warm air and not cooling",air-conditioner,Low Refrigerant / Gas Leak,HIGH,Check if indoor filter is clean and ensure outdoor condenser unit fan is rotating freely.
+"Since yesterday, my ac is running but blowing warm air and not cooling",air-conditioner,Low Refrigerant / Gas Leak,HIGH,Check if indoor filter is clean and ensure outdoor condenser unit fan is rotating freely.
+Our my ac is running but blowing warm air and not cooling,air-conditioner,Low Refrigerant / Gas Leak,HIGH,Check if indoor filter is clean and ensure outdoor condenser unit fan is rotating freely.
+AC is making a loud rattling sound and leaking water inside bedroom,air-conditioner,Drain Pipe Clogged / Blower Imbalance,HIGH,Turn off unit to avoid ceiling plaster damage; inspect indoor drain tray.
+Urgent: ac is making a loud rattling sound and leaking water inside bedroom,air-conditioner,Drain Pipe Clogged / Blower Imbalance,HIGH,Turn off unit to avoid ceiling plaster damage; inspect indoor drain tray.
+"Help, ac is making a loud rattling sound and leaking water inside bedroom",air-conditioner,Drain Pipe Clogged / Blower Imbalance,HIGH,Turn off unit to avoid ceiling plaster damage; inspect indoor drain tray.
+"Since yesterday, ac is making a loud rattling sound and leaking water inside bedroom",air-conditioner,Drain Pipe Clogged / Blower Imbalance,HIGH,Turn off unit to avoid ceiling plaster damage; inspect indoor drain tray.
+Our ac is making a loud rattling sound and leaking water inside bedroom,air-conditioner,Drain Pipe Clogged / Blower Imbalance,HIGH,Turn off unit to avoid ceiling plaster damage; inspect indoor drain tray.
+Split AC turns on for 5 minutes then trips circuit breaker,air-conditioner,Compressor Short Circuit / Faulty Capacitor,CRITICAL,Do not forcefully reset breaker repeatedly to prevent electrical fires.
+Urgent: split ac turns on for 5 minutes then trips circuit breaker,air-conditioner,Compressor Short Circuit / Faulty Capacitor,CRITICAL,Do not forcefully reset breaker repeatedly to prevent electrical fires.
+"Help, split ac turns on for 5 minutes then trips circuit breaker",air-conditioner,Compressor Short Circuit / Faulty Capacitor,CRITICAL,Do not forcefully reset breaker repeatedly to prevent electrical fires.
+"Since yesterday, split ac turns on for 5 minutes then trips circuit breaker",air-conditioner,Compressor Short Circuit / Faulty Capacitor,CRITICAL,Do not forcefully reset breaker repeatedly to prevent electrical fires.
+Our split ac turns on for 5 minutes then trips circuit breaker,air-conditioner,Compressor Short Circuit / Faulty Capacitor,CRITICAL,Do not forcefully reset breaker repeatedly to prevent electrical fires.
+Air conditioner airflow is very weak and smells musty,air-conditioner,Dust Choked Evaporator Coil,MEDIUM,Remove and rinse mesh dust filters under warm water.
+Urgent: air conditioner airflow is very weak and smells musty,air-conditioner,Dust Choked Evaporator Coil,MEDIUM,Remove and rinse mesh dust filters under warm water.
+"Help, air conditioner airflow is very weak and smells musty",air-conditioner,Dust Choked Evaporator Coil,MEDIUM,Remove and rinse mesh dust filters under warm water.
+"Since yesterday, air conditioner airflow is very weak and smells musty",air-conditioner,Dust Choked Evaporator Coil,MEDIUM,Remove and rinse mesh dust filters under warm water.
+Our air conditioner airflow is very weak and smells musty,air-conditioner,Dust Choked Evaporator Coil,MEDIUM,Remove and rinse mesh dust filters under warm water.
+Inverter AC showing error code E6 on display,air-conditioner,PCB Communication Failure,HIGH,Power cycle from main isolator switch for 5 minutes.
+Urgent: inverter ac showing error code e6 on display,air-conditioner,PCB Communication Failure,HIGH,Power cycle from main isolator switch for 5 minutes.
+"Help, inverter ac showing error code e6 on display",air-conditioner,PCB Communication Failure,HIGH,Power cycle from main isolator switch for 5 minutes.
+"Since yesterday, inverter ac showing error code e6 on display",air-conditioner,PCB Communication Failure,HIGH,Power cycle from main isolator switch for 5 minutes.
+Our inverter ac showing error code e6 on display,air-conditioner,PCB Communication Failure,HIGH,Power cycle from main isolator switch for 5 minutes.
+Need annual seasonal deep cleaning for split AC before summer,air-conditioner,Seasonal Maintenance,LOW,Ensure outdoor unit has unobstructed clearance.
+Urgent: need annual seasonal deep cleaning for split ac before summer,air-conditioner,Seasonal Maintenance,LOW,Ensure outdoor unit has unobstructed clearance.
+"Help, need annual seasonal deep cleaning for split ac before summer",air-conditioner,Seasonal Maintenance,LOW,Ensure outdoor unit has unobstructed clearance.
+"Since yesterday, need annual seasonal deep cleaning for split ac before summer",air-conditioner,Seasonal Maintenance,LOW,Ensure outdoor unit has unobstructed clearance.
+Our need annual seasonal deep cleaning for split ac before summer,air-conditioner,Seasonal Maintenance,LOW,Ensure outdoor unit has unobstructed clearance.
+AC outdoor compressor is overheating and shutting down,air-conditioner,Condenser Fan Motor Malfunction,HIGH,Keep outdoor unit sheltered from direct heat trap if possible.
+Urgent: ac outdoor compressor is overheating and shutting down,air-conditioner,Condenser Fan Motor Malfunction,HIGH,Keep outdoor unit sheltered from direct heat trap if possible.
+"Help, ac outdoor compressor is overheating and shutting down",air-conditioner,Condenser Fan Motor Malfunction,HIGH,Keep outdoor unit sheltered from direct heat trap if possible.
+"Since yesterday, ac outdoor compressor is overheating and shutting down",air-conditioner,Condenser Fan Motor Malfunction,HIGH,Keep outdoor unit sheltered from direct heat trap if possible.
+Our ac outdoor compressor is overheating and shutting down,air-conditioner,Condenser Fan Motor Malfunction,HIGH,Keep outdoor unit sheltered from direct heat trap if possible.
+Ice forming on AC indoor copper pipes and coils,air-conditioner,Low Gas Pressure / Blocked Air Filter,HIGH,Switch mode to Fan Only to melt ice; do not chip with sharp tools.
+Urgent: ice forming on ac indoor copper pipes and coils,air-conditioner,Low Gas Pressure / Blocked Air Filter,HIGH,Switch mode to Fan Only to melt ice; do not chip with sharp tools.
+"Help, ice forming on ac indoor copper pipes and coils",air-conditioner,Low Gas Pressure / Blocked Air Filter,HIGH,Switch mode to Fan Only to melt ice; do not chip with sharp tools.
+"Since yesterday, ice forming on ac indoor copper pipes and coils",air-conditioner,Low Gas Pressure / Blocked Air Filter,HIGH,Switch mode to Fan Only to melt ice; do not chip with sharp tools.
+Our ice forming on ac indoor copper pipes and coils,air-conditioner,Low Gas Pressure / Blocked Air Filter,HIGH,Switch mode to Fan Only to melt ice; do not chip with sharp tools.
+Living room switchboard is sparking when plugging in iron,electrical,Loose Terminal / Burnt Switch,CRITICAL,Turn off the sub-circuit MCB immediately to prevent short circuit.
+Urgent: living room switchboard is sparking when plugging in iron,electrical,Loose Terminal / Burnt Switch,CRITICAL,Turn off the sub-circuit MCB immediately to prevent short circuit.
+"Help, living room switchboard is sparking when plugging in iron",electrical,Loose Terminal / Burnt Switch,CRITICAL,Turn off the sub-circuit MCB immediately to prevent short circuit.
+"Since yesterday, living room switchboard is sparking when plugging in iron",electrical,Loose Terminal / Burnt Switch,CRITICAL,Turn off the sub-circuit MCB immediately to prevent short circuit.
+Our living room switchboard is sparking when plugging in iron,electrical,Loose Terminal / Burnt Switch,CRITICAL,Turn off the sub-circuit MCB immediately to prevent short circuit.
+Main MCB switch trips every time geyser is turned on,electrical,Heating Element Earth Leakage,HIGH,Avoid touching water taps connected to water heater while testing.
+Urgent: main mcb switch trips every time geyser is turned on,electrical,Heating Element Earth Leakage,HIGH,Avoid touching water taps connected to water heater while testing.
+"Help, main mcb switch trips every time geyser is turned on",electrical,Heating Element Earth Leakage,HIGH,Avoid touching water taps connected to water heater while testing.
+"Since yesterday, main mcb switch trips every time geyser is turned on",electrical,Heating Element Earth Leakage,HIGH,Avoid touching water taps connected to water heater while testing.
+Our main mcb switch trips every time geyser is turned on,electrical,Heating Element Earth Leakage,HIGH,Avoid touching water taps connected to water heater while testing.
+Ceiling fan is running extremely slow even at maximum speed,electrical,Degraded Fan Capacitor,LOW,Test if fan blade spins freely by hand when turned off.
+Urgent: ceiling fan is running extremely slow even at maximum speed,electrical,Degraded Fan Capacitor,LOW,Test if fan blade spins freely by hand when turned off.
+"Help, ceiling fan is running extremely slow even at maximum speed",electrical,Degraded Fan Capacitor,LOW,Test if fan blade spins freely by hand when turned off.
+"Since yesterday, ceiling fan is running extremely slow even at maximum speed",electrical,Degraded Fan Capacitor,LOW,Test if fan blade spins freely by hand when turned off.
+Our ceiling fan is running extremely slow even at maximum speed,electrical,Degraded Fan Capacitor,LOW,Test if fan blade spins freely by hand when turned off.
+Half the sockets in the kitchen have no electricity,electrical,Blown Fuse / Tripped RCCB,MEDIUM,Check distribution board for any trip lever in neutral position.
+Urgent: half the sockets in the kitchen have no electricity,electrical,Blown Fuse / Tripped RCCB,MEDIUM,Check distribution board for any trip lever in neutral position.
+"Help, half the sockets in the kitchen have no electricity",electrical,Blown Fuse / Tripped RCCB,MEDIUM,Check distribution board for any trip lever in neutral position.
+"Since yesterday, half the sockets in the kitchen have no electricity",electrical,Blown Fuse / Tripped RCCB,MEDIUM,Check distribution board for any trip lever in neutral position.
+Our half the sockets in the kitchen have no electricity,electrical,Blown Fuse / Tripped RCCB,MEDIUM,Check distribution board for any trip lever in neutral position.
+Notice burning plastic smell coming from main electrical distribution box,electrical,Busbar Overheating / Loose Neutral,CRITICAL,Switch off the main isolator switch immediately and keep dry chemical extinguisher accessible.
+Urgent: notice burning plastic smell coming from main electrical distribution box,electrical,Busbar Overheating / Loose Neutral,CRITICAL,Switch off the main isolator switch immediately and keep dry chemical extinguisher accessible.
+"Help, notice burning plastic smell coming from main electrical distribution box",electrical,Busbar Overheating / Loose Neutral,CRITICAL,Switch off the main isolator switch immediately and keep dry chemical extinguisher accessible.
+"Since yesterday, notice burning plastic smell coming from main electrical distribution box",electrical,Busbar Overheating / Loose Neutral,CRITICAL,Switch off the main isolator switch immediately and keep dry chemical extinguisher accessible.
+Our notice burning plastic smell coming from main electrical distribution box,electrical,Busbar Overheating / Loose Neutral,CRITICAL,Switch off the main isolator switch immediately and keep dry chemical extinguisher accessible.
+Smart switch installed is offline and buzzing faintly,electrical,Capacitive Power Supply Defect,MEDIUM,Disconnect from mobile app and check power line.
+Urgent: smart switch installed is offline and buzzing faintly,electrical,Capacitive Power Supply Defect,MEDIUM,Disconnect from mobile app and check power line.
+"Help, smart switch installed is offline and buzzing faintly",electrical,Capacitive Power Supply Defect,MEDIUM,Disconnect from mobile app and check power line.
+"Since yesterday, smart switch installed is offline and buzzing faintly",electrical,Capacitive Power Supply Defect,MEDIUM,Disconnect from mobile app and check power line.
+Our smart switch installed is offline and buzzing faintly,electrical,Capacitive Power Supply Defect,MEDIUM,Disconnect from mobile app and check power line.
+Need complete electrical wiring audit for older apartment,electrical,Safety Audit,LOW,Locate master building electrical meter.
+Urgent: need complete electrical wiring audit for older apartment,electrical,Safety Audit,LOW,Locate master building electrical meter.
+"Help, need complete electrical wiring audit for older apartment",electrical,Safety Audit,LOW,Locate master building electrical meter.
+"Since yesterday, need complete electrical wiring audit for older apartment",electrical,Safety Audit,LOW,Locate master building electrical meter.
+Our need complete electrical wiring audit for older apartment,electrical,Safety Audit,LOW,Locate master building electrical meter.
+Concealed wall pipe leaking behind bathroom tiles with seepage,plumbing,Concealed Pipe Rupture,CRITICAL,Shut off bathroom vertical riser control valve.
+Urgent: concealed wall pipe leaking behind bathroom tiles with seepage,plumbing,Concealed Pipe Rupture,CRITICAL,Shut off bathroom vertical riser control valve.
+"Help, concealed wall pipe leaking behind bathroom tiles with seepage",plumbing,Concealed Pipe Rupture,CRITICAL,Shut off bathroom vertical riser control valve.
+"Since yesterday, concealed wall pipe leaking behind bathroom tiles with seepage",plumbing,Concealed Pipe Rupture,CRITICAL,Shut off bathroom vertical riser control valve.
+Our concealed wall pipe leaking behind bathroom tiles with seepage,plumbing,Concealed Pipe Rupture,CRITICAL,Shut off bathroom vertical riser control valve.
+Kitchen sink drain is completely clogged with standing greasy water,plumbing,Drain Trap Obstruction,HIGH,Avoid dumping boiling water if PVC pipes are installed.
+Urgent: kitchen sink drain is completely clogged with standing greasy water,plumbing,Drain Trap Obstruction,HIGH,Avoid dumping boiling water if PVC pipes are installed.
+"Help, kitchen sink drain is completely clogged with standing greasy water",plumbing,Drain Trap Obstruction,HIGH,Avoid dumping boiling water if PVC pipes are installed.
+"Since yesterday, kitchen sink drain is completely clogged with standing greasy water",plumbing,Drain Trap Obstruction,HIGH,Avoid dumping boiling water if PVC pipes are installed.
+Our kitchen sink drain is completely clogged with standing greasy water,plumbing,Drain Trap Obstruction,HIGH,Avoid dumping boiling water if PVC pipes are installed.
+Bathroom mixer faucet is dripping continuously from the spout,plumbing,Worn Ceramic Cartridge,LOW,Turn off under-sink angle stopcock valve.
+Urgent: bathroom mixer faucet is dripping continuously from the spout,plumbing,Worn Ceramic Cartridge,LOW,Turn off under-sink angle stopcock valve.
+"Help, bathroom mixer faucet is dripping continuously from the spout",plumbing,Worn Ceramic Cartridge,LOW,Turn off under-sink angle stopcock valve.
+"Since yesterday, bathroom mixer faucet is dripping continuously from the spout",plumbing,Worn Ceramic Cartridge,LOW,Turn off under-sink angle stopcock valve.
+Our bathroom mixer faucet is dripping continuously from the spout,plumbing,Worn Ceramic Cartridge,LOW,Turn off under-sink angle stopcock valve.
+Water pressure from overhead shower is very weak and erratic,plumbing,Mineral Scale Deposit / Blocked Aerator,LOW,Unscrew shower head and soak in vinegar solution.
+Urgent: water pressure from overhead shower is very weak and erratic,plumbing,Mineral Scale Deposit / Blocked Aerator,LOW,Unscrew shower head and soak in vinegar solution.
+"Help, water pressure from overhead shower is very weak and erratic",plumbing,Mineral Scale Deposit / Blocked Aerator,LOW,Unscrew shower head and soak in vinegar solution.
+"Since yesterday, water pressure from overhead shower is very weak and erratic",plumbing,Mineral Scale Deposit / Blocked Aerator,LOW,Unscrew shower head and soak in vinegar solution.
+Our water pressure from overhead shower is very weak and erratic,plumbing,Mineral Scale Deposit / Blocked Aerator,LOW,Unscrew shower head and soak in vinegar solution.
+Water pump motor in basement is vibrating excessively and not priming,plumbing,Air Lock / Impeller Wear,HIGH,Do not run pump dry to avoid burning the motor coil.
+Urgent: water pump motor in basement is vibrating excessively and not priming,plumbing,Air Lock / Impeller Wear,HIGH,Do not run pump dry to avoid burning the motor coil.
+"Help, water pump motor in basement is vibrating excessively and not priming",plumbing,Air Lock / Impeller Wear,HIGH,Do not run pump dry to avoid burning the motor coil.
+"Since yesterday, water pump motor in basement is vibrating excessively and not priming",plumbing,Air Lock / Impeller Wear,HIGH,Do not run pump dry to avoid burning the motor coil.
+Our water pump motor in basement is vibrating excessively and not priming,plumbing,Air Lock / Impeller Wear,HIGH,Do not run pump dry to avoid burning the motor coil.
+Toilet cistern flush valve is constantly running and wasting water,plumbing,Flapper Valve Deterioration,MEDIUM,Check float ball arm height adjustment inside flush tank.
+Urgent: toilet cistern flush valve is constantly running and wasting water,plumbing,Flapper Valve Deterioration,MEDIUM,Check float ball arm height adjustment inside flush tank.
+"Help, toilet cistern flush valve is constantly running and wasting water",plumbing,Flapper Valve Deterioration,MEDIUM,Check float ball arm height adjustment inside flush tank.
+"Since yesterday, toilet cistern flush valve is constantly running and wasting water",plumbing,Flapper Valve Deterioration,MEDIUM,Check float ball arm height adjustment inside flush tank.
+Our toilet cistern flush valve is constantly running and wasting water,plumbing,Flapper Valve Deterioration,MEDIUM,Check float ball arm height adjustment inside flush tank.
+Fridge freezer is freezing ice but lower compartment is warm,refrigerator,Defrost Timer / Bi-metal Sensor Failure,HIGH,Ensure air vent damper between freezer and fridge is unblocked.
+Urgent: fridge freezer is freezing ice but lower compartment is warm,refrigerator,Defrost Timer / Bi-metal Sensor Failure,HIGH,Ensure air vent damper between freezer and fridge is unblocked.
+"Help, fridge freezer is freezing ice but lower compartment is warm",refrigerator,Defrost Timer / Bi-metal Sensor Failure,HIGH,Ensure air vent damper between freezer and fridge is unblocked.
+"Since yesterday, fridge freezer is freezing ice but lower compartment is warm",refrigerator,Defrost Timer / Bi-metal Sensor Failure,HIGH,Ensure air vent damper between freezer and fridge is unblocked.
+Our fridge freezer is freezing ice but lower compartment is warm,refrigerator,Defrost Timer / Bi-metal Sensor Failure,HIGH,Ensure air vent damper between freezer and fridge is unblocked.
+Refrigerator compressor is clicking every few minutes and stopping,refrigerator,Start Relay / PTC Starter Defect,HIGH,Unplug unit to prevent compressor winding burnout.
+Urgent: refrigerator compressor is clicking every few minutes and stopping,refrigerator,Start Relay / PTC Starter Defect,HIGH,Unplug unit to prevent compressor winding burnout.
+"Help, refrigerator compressor is clicking every few minutes and stopping",refrigerator,Start Relay / PTC Starter Defect,HIGH,Unplug unit to prevent compressor winding burnout.
+"Since yesterday, refrigerator compressor is clicking every few minutes and stopping",refrigerator,Start Relay / PTC Starter Defect,HIGH,Unplug unit to prevent compressor winding burnout.
+Our refrigerator compressor is clicking every few minutes and stopping,refrigerator,Start Relay / PTC Starter Defect,HIGH,Unplug unit to prevent compressor winding burnout.
+Water pooling under vegetable crisper drawers inside fridge,refrigerator,Drain Hole Freezing / Blockage,MEDIUM,Clear drain trough at rear interior wall with warm water.
+Urgent: water pooling under vegetable crisper drawers inside fridge,refrigerator,Drain Hole Freezing / Blockage,MEDIUM,Clear drain trough at rear interior wall with warm water.
+"Help, water pooling under vegetable crisper drawers inside fridge",refrigerator,Drain Hole Freezing / Blockage,MEDIUM,Clear drain trough at rear interior wall with warm water.
+"Since yesterday, water pooling under vegetable crisper drawers inside fridge",refrigerator,Drain Hole Freezing / Blockage,MEDIUM,Clear drain trough at rear interior wall with warm water.
+Our water pooling under vegetable crisper drawers inside fridge,refrigerator,Drain Hole Freezing / Blockage,MEDIUM,Clear drain trough at rear interior wall with warm water.
+Frost free refrigerator building thick sheet of ice on freezer coils,refrigerator,Defrost Heater Rod Burnout,HIGH,Transfer perishable foods to cool box.
+Urgent: frost free refrigerator building thick sheet of ice on freezer coils,refrigerator,Defrost Heater Rod Burnout,HIGH,Transfer perishable foods to cool box.
+"Help, frost free refrigerator building thick sheet of ice on freezer coils",refrigerator,Defrost Heater Rod Burnout,HIGH,Transfer perishable foods to cool box.
+"Since yesterday, frost free refrigerator building thick sheet of ice on freezer coils",refrigerator,Defrost Heater Rod Burnout,HIGH,Transfer perishable foods to cool box.
+Our frost free refrigerator building thick sheet of ice on freezer coils,refrigerator,Defrost Heater Rod Burnout,HIGH,Transfer perishable foods to cool box.
+Fridge is making loud humming noise that stops when door opens,refrigerator,Evaporator Fan Motor Bearing Wear,MEDIUM,Ensure fridge is leveled on all four feet.
+Urgent: fridge is making loud humming noise that stops when door opens,refrigerator,Evaporator Fan Motor Bearing Wear,MEDIUM,Ensure fridge is leveled on all four feet.
+"Help, fridge is making loud humming noise that stops when door opens",refrigerator,Evaporator Fan Motor Bearing Wear,MEDIUM,Ensure fridge is leveled on all four feet.
+"Since yesterday, fridge is making loud humming noise that stops when door opens",refrigerator,Evaporator Fan Motor Bearing Wear,MEDIUM,Ensure fridge is leveled on all four feet.
+Our fridge is making loud humming noise that stops when door opens,refrigerator,Evaporator Fan Motor Bearing Wear,MEDIUM,Ensure fridge is leveled on all four feet.
+Front load washing machine shaking violently during final spin cycle,washing-machine,Worn Shock Absorbers / Drum Spider Crack,HIGH,Verify leveling feet locknuts and remove transit bolts if newly moved.
+Urgent: front load washing machine shaking violently during final spin cycle,washing-machine,Worn Shock Absorbers / Drum Spider Crack,HIGH,Verify leveling feet locknuts and remove transit bolts if newly moved.
+"Help, front load washing machine shaking violently during final spin cycle",washing-machine,Worn Shock Absorbers / Drum Spider Crack,HIGH,Verify leveling feet locknuts and remove transit bolts if newly moved.
+"Since yesterday, front load washing machine shaking violently during final spin cycle",washing-machine,Worn Shock Absorbers / Drum Spider Crack,HIGH,Verify leveling feet locknuts and remove transit bolts if newly moved.
+Our front load washing machine shaking violently during final spin cycle,washing-machine,Worn Shock Absorbers / Drum Spider Crack,HIGH,Verify leveling feet locknuts and remove transit bolts if newly moved.
+Washing machine will not drain water and displays error OE / E20,washing-machine,Foreign Object in Drain Filter,HIGH,Unscrew bottom front coin trap filter and empty water manually.
+Urgent: washing machine will not drain water and displays error oe / e20,washing-machine,Foreign Object in Drain Filter,HIGH,Unscrew bottom front coin trap filter and empty water manually.
+"Help, washing machine will not drain water and displays error oe / e20",washing-machine,Foreign Object in Drain Filter,HIGH,Unscrew bottom front coin trap filter and empty water manually.
+"Since yesterday, washing machine will not drain water and displays error oe / e20",washing-machine,Foreign Object in Drain Filter,HIGH,Unscrew bottom front coin trap filter and empty water manually.
+Our washing machine will not drain water and displays error oe / e20,washing-machine,Foreign Object in Drain Filter,HIGH,Unscrew bottom front coin trap filter and empty water manually.
+Washing machine drum is not turning but motor hums,washing-machine,Drive Belt Snapped / Motor Carbon Brushes,HIGH,Do not overload drum beyond rated dry capacity.
+Urgent: washing machine drum is not turning but motor hums,washing-machine,Drive Belt Snapped / Motor Carbon Brushes,HIGH,Do not overload drum beyond rated dry capacity.
+"Help, washing machine drum is not turning but motor hums",washing-machine,Drive Belt Snapped / Motor Carbon Brushes,HIGH,Do not overload drum beyond rated dry capacity.
+"Since yesterday, washing machine drum is not turning but motor hums",washing-machine,Drive Belt Snapped / Motor Carbon Brushes,HIGH,Do not overload drum beyond rated dry capacity.
+Our washing machine drum is not turning but motor hums,washing-machine,Drive Belt Snapped / Motor Carbon Brushes,HIGH,Do not overload drum beyond rated dry capacity.
+Water continues filling in drum even when machine is powered off,washing-machine,Faulty Water Inlet Solenoid Valve,CRITICAL,Turn off dedicated tap inlet valve immediately.
+Urgent: water continues filling in drum even when machine is powered off,washing-machine,Faulty Water Inlet Solenoid Valve,CRITICAL,Turn off dedicated tap inlet valve immediately.
+"Help, water continues filling in drum even when machine is powered off",washing-machine,Faulty Water Inlet Solenoid Valve,CRITICAL,Turn off dedicated tap inlet valve immediately.
+"Since yesterday, water continues filling in drum even when machine is powered off",washing-machine,Faulty Water Inlet Solenoid Valve,CRITICAL,Turn off dedicated tap inlet valve immediately.
+Our water continues filling in drum even when machine is powered off,washing-machine,Faulty Water Inlet Solenoid Valve,CRITICAL,Turn off dedicated tap inlet valve immediately.
+Clothes coming out soaked and unspun after wash cycle,washing-machine,Unbalanced Load Detection / Faulty Hall Sensor,MEDIUM,Redistribute bulky towels evenly inside drum.
+Urgent: clothes coming out soaked and unspun after wash cycle,washing-machine,Unbalanced Load Detection / Faulty Hall Sensor,MEDIUM,Redistribute bulky towels evenly inside drum.
+"Help, clothes coming out soaked and unspun after wash cycle",washing-machine,Unbalanced Load Detection / Faulty Hall Sensor,MEDIUM,Redistribute bulky towels evenly inside drum.
+"Since yesterday, clothes coming out soaked and unspun after wash cycle",washing-machine,Unbalanced Load Detection / Faulty Hall Sensor,MEDIUM,Redistribute bulky towels evenly inside drum.
+Our clothes coming out soaked and unspun after wash cycle,washing-machine,Unbalanced Load Detection / Faulty Hall Sensor,MEDIUM,Redistribute bulky towels evenly inside drum.
+RO water purifier continuous pure water trickle and waste water running non-stop,water-purifier,Choked Membrane / Auto Shut-off Valve Defect,HIGH,Check raw water tap supply pressure.
+Urgent: ro water purifier continuous pure water trickle and waste water running non-stop,water-purifier,Choked Membrane / Auto Shut-off Valve Defect,HIGH,Check raw water tap supply pressure.
+"Help, ro water purifier continuous pure water trickle and waste water running non-stop",water-purifier,Choked Membrane / Auto Shut-off Valve Defect,HIGH,Check raw water tap supply pressure.
+"Since yesterday, ro water purifier continuous pure water trickle and waste water running non-stop",water-purifier,Choked Membrane / Auto Shut-off Valve Defect,HIGH,Check raw water tap supply pressure.
+Our ro water purifier continuous pure water trickle and waste water running non-stop,water-purifier,Choked Membrane / Auto Shut-off Valve Defect,HIGH,Check raw water tap supply pressure.
+Purified drinking water tastes bitter or metallic with high TDS reading,water-purifier,Exhausted RO Membrane & Post Carbon,HIGH,Do not consume until TDS levels are verified under 150 PPM.
+Urgent: purified drinking water tastes bitter or metallic with high tds reading,water-purifier,Exhausted RO Membrane & Post Carbon,HIGH,Do not consume until TDS levels are verified under 150 PPM.
+"Help, purified drinking water tastes bitter or metallic with high tds reading",water-purifier,Exhausted RO Membrane & Post Carbon,HIGH,Do not consume until TDS levels are verified under 150 PPM.
+"Since yesterday, purified drinking water tastes bitter or metallic with high tds reading",water-purifier,Exhausted RO Membrane & Post Carbon,HIGH,Do not consume until TDS levels are verified under 150 PPM.
+Our purified drinking water tastes bitter or metallic with high tds reading,water-purifier,Exhausted RO Membrane & Post Carbon,HIGH,Do not consume until TDS levels are verified under 150 PPM.
+RO booster pump vibrating loudly with clicking noise,water-purifier,Booster Pump Diaphragm Wear,MEDIUM,Check inlet sediment filter bowl for sand clogging.
+Urgent: ro booster pump vibrating loudly with clicking noise,water-purifier,Booster Pump Diaphragm Wear,MEDIUM,Check inlet sediment filter bowl for sand clogging.
+"Help, ro booster pump vibrating loudly with clicking noise",water-purifier,Booster Pump Diaphragm Wear,MEDIUM,Check inlet sediment filter bowl for sand clogging.
+"Since yesterday, ro booster pump vibrating loudly with clicking noise",water-purifier,Booster Pump Diaphragm Wear,MEDIUM,Check inlet sediment filter bowl for sand clogging.
+Our ro booster pump vibrating loudly with clicking noise,water-purifier,Booster Pump Diaphragm Wear,MEDIUM,Check inlet sediment filter bowl for sand clogging.
+Water purifier leaking water from bottom of body cabinet,water-purifier,Loose Push-fit Elbow Fitting,HIGH,Turn off power adapter and blue inlet valve.
+Urgent: water purifier leaking water from bottom of body cabinet,water-purifier,Loose Push-fit Elbow Fitting,HIGH,Turn off power adapter and blue inlet valve.
+"Help, water purifier leaking water from bottom of body cabinet",water-purifier,Loose Push-fit Elbow Fitting,HIGH,Turn off power adapter and blue inlet valve.
+"Since yesterday, water purifier leaking water from bottom of body cabinet",water-purifier,Loose Push-fit Elbow Fitting,HIGH,Turn off power adapter and blue inlet valve.
+Our water purifier leaking water from bottom of body cabinet,water-purifier,Loose Push-fit Elbow Fitting,HIGH,Turn off power adapter and blue inlet valve.
+UV lamp indicator light is beeping and flashing red,water-purifier,UV Lamp / Ballast Failure,HIGH,Boil water prior to drinking until UV sterilization is restored.
+Urgent: uv lamp indicator light is beeping and flashing red,water-purifier,UV Lamp / Ballast Failure,HIGH,Boil water prior to drinking until UV sterilization is restored.
+"Help, uv lamp indicator light is beeping and flashing red",water-purifier,UV Lamp / Ballast Failure,HIGH,Boil water prior to drinking until UV sterilization is restored.
+"Since yesterday, uv lamp indicator light is beeping and flashing red",water-purifier,UV Lamp / Ballast Failure,HIGH,Boil water prior to drinking until UV sterilization is restored.
+Our uv lamp indicator light is beeping and flashing red,water-purifier,UV Lamp / Ballast Failure,HIGH,Boil water prior to drinking until UV sterilization is restored.

@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+**/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+frontend/android/app/build/
+*.apk
+*.aab
+.gradle/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Local tools and SDKs
+php_runtime/
+android-sdk/
+jdk-17/
+jdk17.msi
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.zip
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+database/seed.sql

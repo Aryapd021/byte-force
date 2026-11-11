@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+frontend
+ai-service
+android-sdk
+jdk-17
+php_runtime
+database
+release
+docs
+assets
+**/node_modules
+**/.pytest_cache

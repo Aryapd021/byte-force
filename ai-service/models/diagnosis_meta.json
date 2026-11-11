@@ -1,0 +1,73 @@
+{
+  "1": {
+    "category_name": "Air Conditioning & HVAC",
+    "recommended_services": [
+      {
+        "slug": "ac-foam-jet-cleaning",
+        "name": "AC Foam Jet Deep Cleaning"
+      },
+      {
+        "slug": "ac-gas-refill-leak-test",
+        "name": "AC Gas Refill & Leak Test"
+      }
+    ],
+    "default_troubleshooting": "Check if power switch and remote display are active; verify filters for heavy dust blockage.",
+    "urgency": "High"
+  },
+  "2": {
+    "category_name": "Electrical & Wiring",
+    "recommended_services": [
+      {
+        "slug": "electrical-safety-audit",
+        "name": "Complete Home Electrical Audit"
+      },
+      {
+        "slug": "inverter-battery-setup",
+        "name": "Inverter & Battery Wiring Setup"
+      }
+    ],
+    "default_troubleshooting": "Switch off main trip breaker immediately if burning smell is detected. Avoid touching bare conductors.",
+    "urgency": "High"
+  },
+  "3": {
+    "category_name": "Appliance Repair",
+    "recommended_services": [
+      {
+        "slug": "washing-machine-drum-motor",
+        "name": "Washing Machine Drum & Motor Repair"
+      },
+      {
+        "slug": "refrigerator-cooling-diagnostic",
+        "name": "Refrigerator Cooling Diagnostic"
+      }
+    ],
+    "default_troubleshooting": "Unplug appliance from wall socket; inspect drain lint filter and water inlet hoses.",
+    "urgency": "Medium"
+  },
+  "4": {
+    "category_name": "Plumbing & Leakage",
+    "recommended_services": [
+      {
+        "slug": "bathroom-leakage-diagnostic",
+        "name": "Bathroom Deep Leakage Diagnostic"
+      },
+      {
+        "slug": "kitchen-sink-unclogging",
+        "name": "Kitchen Sink & Drain Unclogging"
+      }
+    ],
+    "default_troubleshooting": "Shut off overhead supply valve; do not pour harsh acid into PVC drain pipes.",
+    "urgency": "High"
+  },
+  "5": {
+    "category_name": "Water Purifiers (RO)",
+    "recommended_services": [
+      {
+        "slug": "ro-filter-replacement",
+        "name": "RO Purifier Complete Filter Replacement"
+      }
+    ],
+    "default_troubleshooting": "Check incoming tap water pressure valve; avoid drinking unpurified reject water.",
+    "urgency": "Medium"
+  }
+}

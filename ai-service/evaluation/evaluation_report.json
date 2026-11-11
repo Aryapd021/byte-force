@@ -1,0 +1,45 @@
+{
+  "diagnosis_nlp": {
+    "samples": 112,
+    "accuracy": 1.0,
+    "weighted_f1": 1.0,
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "fairprice_ai": {
+    "samples": 1200,
+    "mae_inr": 81.33,
+    "rmse_inr": 138.09,
+    "r2_score": 0.9828,
+    "features": [
+      "category_id",
+      "complexity",
+      "labour_hours",
+      "parts_required",
+      "parts_cost",
+      "service_zone",
+      "urgency_multiplier"
+    ]
+  },
+  "satisfaction_prediction": {
+    "samples": 1000,
+    "accuracy": 0.71,
+    "weighted_f1": 0.6981,
+    "classes": [
+      "HIGH",
+      "MEDIUM",
+      "LOW"
+    ]
+  },
+  "home_health_intelligence": {
+    "samples": 1200,
+    "health_score_mae": 4.85,
+    "health_score_r2": 0.8854,
+    "risk_classifier_accuracy": 0.8708
+  }
+}

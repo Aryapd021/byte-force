@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="100%" height="100%">
+  <defs>
+    <!-- Exact Webpage Tailwind Gradient: from-secondary (#2563EB) to-accent (#06B6D4) -->
+    <linearGradient id="webGradientDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#06B6D4" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Dark Background Plate -->
+  <rect width="600" height="160" rx="20" fill="#101828" />
+
+  <!-- Group for Logo -->
+  <g transform="translate(20, 20)">
+    <!-- Webpage Gradient Rounded Box -->
+    <rect x="10" y="10" width="100" height="100" rx="26" fill="url(#webGradientDark)" filter="url(#subtleGlow)" />
+
+    <!-- Exact "BF" text inside the box -->
+    <text x="60" y="77" font-family="'Inter', system-ui, -apple-system, sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">BF</text>
+
+    <!-- Exact Webpage "ByteForce" Text for Dark Mode: Byte in white, Force in accent cyan -->
+    <text x="135" y="80" font-family="'Inter', system-ui, -apple-system, sans-serif" font-weight="800" font-size="56" fill="#FFFFFF" letter-spacing="-0.5">
+      Byte<tspan fill="#06B6D4">Force</tspan>
+    </text>
+
+    <!-- Subtitle: HomeGenie AI -->
+    <text x="138" y="105" font-family="'Inter', system-ui, -apple-system, sans-serif" font-weight="600" font-size="16" fill="#60A5FA" letter-spacing="3">
+      HOMEGENIE AI
+    </text>
+  </g>
+</svg>
