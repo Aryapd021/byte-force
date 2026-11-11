@@ -27,7 +27,12 @@ class Database {
             self::$driverUsed = 'mysql';
             return self::$instance;
         } catch (Throwable $e) {
-            // Fallback to SQLite database for seamless zero-config local testing and demo
+            if (getenv('DB_HOST')) {
+                error_log('MySQL connection failed: ' . $e->getMessage());
+                throw new RuntimeException('Production database connection failed.', 0, $e);
+            }
+
+            // Fallback to SQLite database for local testing and demo
             $sqlitePath = dirname(__DIR__, 2) . '/database/byte_force_local.db';
             $isNew = !file_exists($sqlitePath);
             $pdo = new PDO("sqlite:" . $sqlitePath, null, null, [
