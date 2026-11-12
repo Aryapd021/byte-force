@@ -1,0 +1,45 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "frontend": {
+      "root": "frontend",
+      "framework": "vite"
+    },
+    "ai-service": {
+      "root": "ai-service",
+      "framework": "fastapi"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/ai/(.*)",
+      "destination": {
+        "service": "ai-service"
+      }
+    },
+    {
+      "source": "/health",
+      "destination": {
+        "service": "ai-service"
+      }
+    },
+    {
+      "source": "/docs",
+      "destination": {
+        "service": "ai-service"
+      }
+    },
+    {
+      "source": "/openapi.json",
+      "destination": {
+        "service": "ai-service"
+      }
+    },
+    {
+      "source": "/(.*)",
+      "destination": {
+        "service": "frontend"
+      }
+    }
+  ]
+}
