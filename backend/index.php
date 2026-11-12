@@ -31,6 +31,11 @@ if ($path === '' || $path === '/api') {
     ]);
 }
 
+if ($path === '/api/setup-db') {
+    $res = Database::runManualMigration();
+    jsonResponse($res);
+}
+
 $input = getJsonInput();
 
 try {

@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends libcurl4-openss
 WORKDIR /var/www/html
 
 COPY backend/ ./backend/
+COPY database/ ./database/
 
 EXPOSE 8080
 

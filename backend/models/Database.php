@@ -452,18 +452,61 @@ SQL;
             (4, 1, 'System Health Normal', 'All 4 AI predictive engines operating at 99.8% uptime.', 'SYSTEM', 0, '/admin/analytics', '2026-11-08 09:00:00')");
     }
 
+    public static function runManualMigration(): array {
+        $pdo = self::getConnection();
+        require_once __DIR__ . '/MysqlSchema.php';
+
+        $pdo->exec("SET FOREIGN_KEY_CHECKS = 0;");
+        $sql = MysqlSchema::getSql();
+        $queries = array_filter(array_map('trim', explode(';', $sql)));
+        $executed = 0;
+        foreach ($queries as $q) {
+            if (!empty($q)) {
+                try {
+                    $pdo->exec($q);
+                    $executed++;
+                } catch (Throwable $e) {
+                    error_log("Migration query warning: " . $e->getMessage());
+                }
+            }
+        }
+        $pdo->exec("SET FOREIGN_KEY_CHECKS = 1;");
+
+        self::seedMysqlDatabase($pdo);
+
+        $tablesStmt = $pdo->query("SHOW TABLES");
+        $tables = $tablesStmt ? $tablesStmt->fetchAll(PDO::FETCH_COLUMN) : [];
+
+        return [
+            'status' => 'success',
+            'queries_executed' => $executed,
+            'tables_count' => count($tables),
+            'tables' => $tables
+        ];
+    }
+
     private static function initializeMysqlDatabase(PDO $pdo): void {
         try {
-            $stmt = $pdo->query("SHOW TABLES LIKE 'users'");
+            $stmt = $pdo->query("SHOW TABLES LIKE 'services'");
             if ($stmt && $stmt->fetch()) {
                 return;
             }
 
-            $schemaPath = dirname(__DIR__, 2) . '/database/railway_schema.sql';
-            if (file_exists($schemaPath)) {
-                $sql = file_get_contents($schemaPath);
-                $pdo->exec($sql);
+            require_once __DIR__ . '/MysqlSchema.php';
+
+            $pdo->exec("SET FOREIGN_KEY_CHECKS = 0;");
+            $sql = MysqlSchema::getSql();
+            $queries = array_filter(array_map('trim', explode(';', $sql)));
+            foreach ($queries as $q) {
+                if (!empty($q)) {
+                    try {
+                        $pdo->exec($q);
+                    } catch (Throwable $e) {
+                        error_log("Auto-init query warning: " . $e->getMessage());
+                    }
+                }
             }
+            $pdo->exec("SET FOREIGN_KEY_CHECKS = 1;");
 
             self::seedMysqlDatabase($pdo);
         } catch (Throwable $e) {
